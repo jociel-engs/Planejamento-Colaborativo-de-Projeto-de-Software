@@ -50,17 +50,16 @@ O projeto será desenvolvido utilizando:
 ## Status do Projeto
 * Em fase de planejamento...
 
---- --- --- --- --- --- --- --- --- --- --- --- --- ---
-
+--- --- --- --- --- --- --- --- --- --- --- --- ---
 # Backlog do Projeto - EasySênior
 
 ## Product Owner
-SEU NOME AQUI
+Gabriel Dufech Ferreira 
 
 ---
 
 ## Objetivo
-Sistema para facilitar o agendamento de consultas médicas para idosos, com foco em acessibilidade, simplicidade e usabilidade.
+Sistema para facilitar o agendamento de consultas médicas para idosos, que geralmente tem dificuldades com a tecnologia hoje em dia, por isso o EasySênior, terá uma interface simples e objetiva pra simplificar para os usuários.
 
 ---
 
@@ -70,7 +69,7 @@ Sistema para facilitar o agendamento de consultas médicas para idosos, com foco
 
 ### ALTA PRIORIDADE (Essencial)
 
-
+| ID | Tarefa | Descrição |
 |----|------|----------|
 | 1 | Estrutura do projeto | Criar organização inicial do sistema |
 | 2 | Cadastro de usuário | Permitir cadastro de idoso ou responsável |
@@ -107,7 +106,7 @@ Sistema para facilitar o agendamento de consultas médicas para idosos, com foco
 
 ---
 
-### BAIXA PRIORIDADE 
+### BAIXA PRIORIDADE (Extras)
 
 | ID | Tarefa | Descrição |
 |----|------|----------|
@@ -119,8 +118,8 @@ Sistema para facilitar o agendamento de consultas médicas para idosos, com foco
 
 ---
 
-## Obs
+## Observações
 
 - As tarefas estão organizadas por prioridade definida pelo P.O
-- O backlog pode ser atualizado conforme evolução do projeto
+- O backlog pode ser atualizado durante a  evolução do projeto
 - Cada tarefa será detalhada pelos dev's durante as sprints
