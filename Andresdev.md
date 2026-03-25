@@ -74,3 +74,4 @@ Pensando no público idoso, o filtro será apresentado com botões grandes e nom
 
 O objetivo dessa funcionalidade é agilizar a busca por médicos, tornando o processo mais eficiente e reduzindo o esforço necessário para encontrar o atendimento adequado.
 
+.
