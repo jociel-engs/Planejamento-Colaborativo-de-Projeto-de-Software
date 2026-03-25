@@ -10,3 +10,6 @@ Abaixo estão as descrições das soluções planejadas para as tarefas que me f
 
 ### 2. Sistema de busca de médicos
 * **Descrição da solução planejada:** Desenvolver um campo de pesquisa na tela principal com filtros. O usuário poderá buscar médicos por "Nome", "Especialidade" (ex: Cardiologista, Pediatra) ou "Disponibilidade". O sistema deverá consultar o banco de dados e retornar uma lista em formato de cards.
+
+### 3. Mensagens claras de erro ou de sucesso
+* **Descrição da solução planejada:** Padronizar o feedback visual (UI/UX) do sistema. Planejar a implementação de alertas temporários (toasts ou pop-ups) nas cores verde (sucesso, ex: "Consulta agendada!") e vermelho (erro, ex: "Horário indisponível!"), melhorando a comunicação com o usuário após cada ação.
