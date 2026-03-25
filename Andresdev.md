@@ -35,3 +35,15 @@ O sistema também poderá diferenciar consultas futuras e passadas, facilitando 
 Pensando no público idoso, a interface será simples, com letras grandes, boa organização visual e uso de cores para facilitar a identificação das informações.
 
 O objetivo dessa funcionalidade é permitir que o usuário acompanhe facilmente suas consultas, evitando esquecimentos e melhorando sua organização no dia a dia.
+
+## Tarefa: Criar interface simples e acessível
+
+Durante o planejamento do aplicativo EasySênior, foi definida a criação de uma interface simples, intuitiva e acessível, voltada especialmente para o público idoso.
+
+As telas do aplicativo serão desenvolvidas com letras grandes, botões bem destacados e cores com bom contraste, facilitando a leitura e a navegação. Os elementos serão organizados de forma clara, evitando excesso de informações na tela.
+
+A navegação será pensada para exigir o menor número possível de passos, com fluxos diretos e objetivos, reduzindo a dificuldade de uso. Além disso, mensagens explicativas serão utilizadas para orientar o usuário em cada ação realizada.
+
+Também será considerada a possibilidade de uso por responsáveis, garantindo que o sistema seja fácil tanto para idosos quanto para familiares.
+
+O objetivo dessa funcionalidade é proporcionar uma experiência confortável, simples e eficiente, permitindo que usuários com pouca familiaridade com tecnologia consigam utilizar o aplicativo sem dificuldades.
