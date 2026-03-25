@@ -25,3 +25,6 @@ Abaixo estão as descrições das soluções planejadas para as tarefas que me f
 
 ### 7. Notificações de consulta agendada
 * **Descrição da solução planejada:** Implementar um alerta imediato. Assim que o usuário finalizar a marcação de uma nova consulta, o sistema vai gerar uma notificação na tela e enviar um comprovante automático com a data, horário e nome do médico.
+
+### 8. Histórico de consultas
+* **Descrição da solução planejada:** Desenvolver uma tela no painel do paciente dividida em duas abas: "Consultas Futuras" e "Consultas Realizadas". O sistema fará uma busca no banco de dados vinculada ao ID do usuário para listar o histórico médico de forma organizada.
