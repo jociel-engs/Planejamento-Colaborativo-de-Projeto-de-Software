@@ -1,3 +1,11 @@
-Imagine que, quando você clica em "cadastrar", o sistema aciona uma espécie de recepção digital que confere tudo com muito cuidado. Primeiro, ele dá uma olhada rápida para ver se você não esqueceu nenhum campo ou se o e-mail parece estranho. Se estiver tudo certo, o sistema corre lá no arquivo principal para garantir que ninguém mais esteja usando aquele mesmo e-mail, evitando contas duplicadas.
+## Tarefa: Criar cadastro de usuário
 
-A parte mais legal acontece logo depois: por segurança, o sistema nunca guarda a sua senha real. Ele usa um "tradutor" que transforma o que você digitou em um código secreto que ninguém consegue ler, nem mesmo os desenvolvedores. Só com tudo verificado e a senha devidamente protegida é que o novo perfil ganha um lugar oficial no banco de dados. No fim, o servidor solta um "ok" lá para a tela, muitas vezes já te deixando logado para você começar a usar o site sem precisar digitar tudo de novo.
+Na tela inicial do aplicativo EasySênior, haverá um botão de "Criar Conta", com destaque e fácil visualização. Ao clicar, o usuário será direcionado para uma tela simples e intuitiva de cadastro.
+
+Nessa tela, o usuário deverá preencher informações básicas como nome completo, idade, telefone, CPF e senha. Pensando no público idoso, os campos terão letras grandes, instruções claras e validações simples para evitar erros.
+
+Também será possível que um responsável realize o cadastro em nome do idoso, adicionando um campo opcional para identificar o responsável.
+
+Após o preenchimento, o sistema validará os dados e, caso estejam corretos, criará a conta do usuário, permitindo acesso ao aplicativo.
+
+O objetivo dessa funcionalidade é garantir um processo de entrada no sistema simples, rápido e acessível, reduzindo dificuldades para usuários com pouca familiaridade com tecnologia.
