@@ -73,3 +73,6 @@ O processo será simples e direto, permitindo que o usuário encontre rapidament
 Pensando no público idoso, o filtro será apresentado com botões grandes e nomes claros, evitando termos técnicos complicados e facilitando a compreensão.
 
 O objetivo dessa funcionalidade é agilizar a busca por médicos, tornando o processo mais eficiente e reduzindo o esforço necessário para encontrar o atendimento adequado.
+
+## Tarefa: Criar login de usuario 
+Um sistema de login que permita ao usuário acessar a aplicação com segurança. Para isso, eu preciso criar uma tela de login simples, onde o usuário informe e-mail e senha, validar esses dados e integrar com o sistema para verificar se estão corretos. Também devo garantir a segurança das informações, protegendo a senha e controlando o acesso do usuário. Além disso, é importante tratar possíveis erros, como dados incorretos, e manter a interface fácil de usar, principalmente para pessoas idosas.
