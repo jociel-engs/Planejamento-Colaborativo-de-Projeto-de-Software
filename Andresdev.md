@@ -74,12 +74,3 @@ Pensando no público idoso, o filtro será apresentado com botões grandes e nom
 
 O objetivo dessa funcionalidade é agilizar a busca por médicos, tornando o processo mais eficiente e reduzindo o esforço necessário para encontrar o atendimento adequado.
 
-## Tarefa: Criar login de usuario 
-Um sistema de login que permita ao usuário acessar a aplicação com segurança. Para isso, eu preciso criar uma tela de login simples, onde o usuário informe e-mail e senha, validar esses dados e integrar com o sistema para verificar se estão corretos. Também devo garantir a segurança das informações, protegendo a senha e controlando o acesso do usuário. Além disso, é importante tratar possíveis erros, como dados incorretos, e manter a interface fácil de usar, principalmente para pessoas idosas.
-
-## Tarefa : Criar perfil de usuario 
-Criar o perfil de usuário é fazer uma parte do sistema onde o usuário consegue ver e editar as próprias informações. Eu preciso criar uma tela de perfil simples e organizada, mostrando dados como nome, idade e telefone, e também um formulário para que ele possa alterar essas informações de forma fácil.
-
-Também tenho que conectar isso com o banco de dados, para que tudo que o usuário mudar seja salvo corretamente. Além disso, preciso validar os dados para evitar erros, como campos vazios ou preenchidos errado. Vou incluir também um botão para salvar ou atualizar o perfil e, se possível, permitir que o usuário coloque uma foto.
-
-Tudo isso precisa ser feito pensando em algo fácil de usar, com uma interface simples e clara, principalmente porque o sistema é voltado para pessoas idosas.
