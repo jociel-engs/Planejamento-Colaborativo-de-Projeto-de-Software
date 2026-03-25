@@ -22,3 +22,6 @@ Abaixo estão as descrições das soluções planejadas para as tarefas que me f
 
 ### 6. Lembrete de consulta
 * **Descrição da solução planejada:** Estruturar a lógica de um serviço (rotina em background) que verificará o banco de dados diariamente. O sistema enviará um aviso automático (por e-mail ou SMS simulado) 24 horas antes do horário da consulta para reduzir faltas.
+
+### 7. Notificações de consulta agendada
+* **Descrição da solução planejada:** Implementar um alerta imediato. Assim que o usuário finalizar a marcação de uma nova consulta, o sistema vai gerar uma notificação na tela e enviar um comprovante automático com a data, horário e nome do médico.
