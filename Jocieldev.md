@@ -19,3 +19,27 @@
 
     Quando o usuário agendasse uma consulta (caso o horário selecionado estivesse disponível), seria enviado as informações para o backend, ele verificaria se o horário realmente está disponível, e logo após mandaria uma notificação para o celular do solicitante e pediria a confirmação do agendamento. Posteriormente, seria exibida na tela uma mensagem “Agendamento realizado com sucesso!!
 
+## Cancelar agendamento
+
+    Na aba "Minhas Consultas Agendadas". O usuário poderá ver quais consultas estão agendadas, para qual clinica, qual médico e qual horário. Abaixo dessas informações terá um texto em vermelho negrito escrito: Cancelar Consulta. Se clicar em cima desse texto, irá aparecer uma caixa no meio da tela escrito "Você tem certeza que deseja cancelar essa consulta?".
+    Se essa ação for confirmada, uma mensagem em forma de pop-up aparecerá na parte inferior da tela (Consulta cancelada com sucesso!!).
+
+## Criar dashboards simples com as próximas consultas
+
+    Na tela inicial, terá a opção (Minhas Consultas Agendadas), que conterá o tipo da consulta, em qual clinica, com qual médico e em qual horário, também terá a opção de cancelar a consulta.
+
+## Integração do GPS com as clínicas mais próximas
+
+    Primeiramente o app solicitaria a localização do usuário, para assim conseguir ter acesso as clínicas mais próximas com maior precisão. Depois o backend consulta um banco de dados ou uma API de mapas para identificar as clínicas próximas e cadastradas no app, ele retornaria essas informações para o frontend que exibiria de forma visual, em um mapa ou em forma de cards.
+    Permitindo assim que o usuário veja rapidamente as clínicas mais próximas e consiga agendar a sua consulta com maior facilidade.
+
+## Avaliação dos médicos
+
+    Um ou dois dias após a consulta, será enviada uma notificação para o celular do usuário pedindo o feedback do usuário quanto ao médico que ele foi atendido.
+
+## Modo de voz (com a IA integrada)
+
+    O sistema permite que o usuário interaja por voz, ditando comandos ou solicitando informações. O frontend capta a fala do idoso e envia para a IA, que processa o comando e retorna uma resposta, seja lendo agendamentos, ajudando a marcar consultas, fornecendo instruções ou até mesmo identificando sintomas breves de algum tipo de doença de forma falada, tornando a experiência mais acessível e intuitiva.
+
+##  Página de tutorial
+    O sistema oferece uma página de tutorial com instruções simples, visuais e passo a passo sobre como usar o aplicativo, como marcar ou cancelar agendamentos e acessar funcionalidades importantes. O objetivo é tornar o uso mais intuitivo e garantir que os idosos consigam utilizar todas as funções com facilidade.
