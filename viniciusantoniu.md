@@ -19,3 +19,6 @@ Abaixo estão as descrições das soluções planejadas para as tarefas que me f
 
 ### 5. Editar dados de médicos
 * **Descrição da solução planejada:** Criar um formulário restrito para médicos ou administradores da clínica. Permitirá a atualização de informações profissionais, como número do CRM, especialidades atendidas, dias de trabalho e horários de atendimento clínico.
+
+### 6. Lembrete de consulta
+* **Descrição da solução planejada:** Estruturar a lógica de um serviço (rotina em background) que verificará o banco de dados diariamente. O sistema enviará um aviso automático (por e-mail ou SMS simulado) 24 horas antes do horário da consulta para reduzir faltas.
