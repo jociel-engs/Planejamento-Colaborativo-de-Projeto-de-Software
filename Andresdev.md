@@ -74,4 +74,16 @@ Pensando no público idoso, o filtro será apresentado com botões grandes e nom
 
 O objetivo dessa funcionalidade é agilizar a busca por médicos, tornando o processo mais eficiente e reduzindo o esforço necessário para encontrar o atendimento adequado.
 
-.
+## Tarefa: Criar login de usuário
+
+Na tela inicial do aplicativo EasySênior, haverá a opção de login, permitindo que usuários já cadastrados acessem suas contas de forma rápida e segura.
+
+O usuário deverá informar seu CPF ou telefone, juntamente com a senha cadastrada. Após o preenchimento, o sistema realizará a validação dos dados e, caso estejam corretos, permitirá o acesso ao aplicativo.
+
+Caso haja erro nas informações, o sistema exibirá mensagens claras e objetivas, orientando o usuário sobre como corrigir o problema.
+
+Pensando no público idoso, a interface de login será simples, com poucos campos, letras grandes e botões bem destacados, facilitando o uso mesmo para quem tem pouca familiaridade com tecnologia.
+
+Além disso, a opção "Esqueci minha senha" estará disponível para auxiliar na recuperação de acesso.
+
+O objetivo dessa funcionalidade é garantir um acesso seguro e acessível ao sistema, permitindo que o usuário utilize todas as funcionalidades do aplicativo de forma prática
